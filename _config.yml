@@ -38,7 +38,7 @@ comments: false
 permalink: /recipes/:title.html
 paginate_path: /recipes/:num/
 paginate: 20
-# google_analytics: UA-XXXXXXX-XX
+google_analytics: UA-3304819-20
 
 jekyll-archives:
   enabled:
