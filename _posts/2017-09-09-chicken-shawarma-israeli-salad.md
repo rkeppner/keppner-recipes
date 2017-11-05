@@ -5,6 +5,9 @@ date: 2017-09-09
 image: https://res.cloudinary.com/keppnerhaus/image/upload/v1505000012/keppner-recipes/blog/chicken-shawarma-israeli-salad.jpg
 categories:
 permalink: /recipes/chicken-shawarma-israeli-salad.html
+facebook:
+    type: article
+    image: http://res.cloudinary.com/keppnerhaus/image/upload/c_scale,w_1200/v1505000012/keppner-recipes/blog/chicken-shawarma-israeli-salad.jpg
 ---
 
 Since I can no longer eat pita bread or gyros meat (because it contains breadcrumbs), this is the best I can do for a Greek food fix. Luckily, this combination is fabulous.

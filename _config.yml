@@ -39,6 +39,8 @@ permalink: /recipes/:title.html
 paginate_path: /recipes/:num/
 paginate: 20
 google_analytics: UA-3304819-20
+facebook_app_id: 1221966064
+facebook_page: https://www.facebook.com/rkeppner
 
 jekyll-archives:
   enabled:
