@@ -7,7 +7,7 @@ categories:
 permalink: /recipes/no-bake-chocolate-eclair-cake.html
 ---
 
-This is one of my go-tos in the summer when it gets too hot to turn the oven on. It does take a while to chill, though.
+This is another of my go-tos in the summer when it gets too hot to turn the oven on. It does take a while to chill, though.
 
 ### Ingredients
 
