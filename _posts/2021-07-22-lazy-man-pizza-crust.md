@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lazy Man Pizza Crust'
-date: 2021-07-23
+date: 2021-07-22
 image:
 categories:
 permalink: /recipes/lazy-man-pizza-crust.html

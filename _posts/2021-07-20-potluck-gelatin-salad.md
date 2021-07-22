@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Potluck Gelatin Salad'
-date: 2021-07-22
+date: 2021-07-20
 image:
 categories:
 permalink: /recipes/potluck-gelatin-salad.html
