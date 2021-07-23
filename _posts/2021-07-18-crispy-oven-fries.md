@@ -22,4 +22,4 @@ I love french fries, but I hate the oil mess they make. And the fact that they'r
 2. Bring large pot of water to a boil. Add vinegar and salt to water. Add potatoes and boil for 8 minutes. Gently pour fries into colander to drain, and let steam evaporate for several minutes.
 3. Transfer fries to large baking sheet, and cover with fat/oil. Toss fries to completely cover them.
 4. Bake in oven for 15 minutes. Pull baking sheet out and flip fries. Return to oven for an additional 10 to 15 minutes.
-5. Remove fries to parchment paper. Sprinkle to taste with salt, and let cool slightly.
+5. Remove fries to parchment paper. Sprinkle to taste with salt, and let cool slightly. Serve immediately.
