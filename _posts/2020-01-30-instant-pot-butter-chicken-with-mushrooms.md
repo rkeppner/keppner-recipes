@@ -12,7 +12,7 @@ My wife and I _love_ Indian food, but most of the recipes I've tried at home hav
 ### Ingredients
 
 - 4 pounds boneless, skinless chicken thighs, cut into bite-sized pieces
-- 1/2 cup butter or ghee
+- 1/2 cup butter or ghee (or a combination)
 - 2 large onions, chopped
 - 12 cloves garlic, minced
 - 1/4 cup fresh grated ginger
