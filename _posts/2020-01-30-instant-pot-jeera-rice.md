@@ -3,7 +3,7 @@ layout: post
 title: 'Instant Pot Jeera Rice'
 date: 2020-01-30
 image:
-categories:
+categories: Indian
 permalink: /recipes/instant-pot-jeera-rice.html
 ---
 
