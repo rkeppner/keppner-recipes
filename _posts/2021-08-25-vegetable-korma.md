@@ -34,7 +34,7 @@ Another new addition to our menu, it's one of the few ways that I still like to 
 
 ### Directions
 
-1. Set pot of water on to boil. Prep vegetables. When water is boiling, add 1/2 teaspoon salt and vegetables; par cook for 3–5 minutes. Drain and set aside.
+1. Set pot of water on to boil. Prep vegetables. When water is boiling, add 1/2 teaspoon salt, cauliflower, carrots, and potatoes; par cook for 3–5 minutes. Drain and set aside.
 2. Crush with mortar and pestle or grind with grinder: mustard seed, cumin seed, fenugreek seed, and cardamom seeds. Add garlic and ginger, and crush or grind to paste.
 3. To wok, dutch oven, or large pot, add ghee and bring to medium heat. Add chili pepper, onion, and tomato; sauté for 1–2 minutes until it starts to brown. Add seasoning paste, chili powder, turmeric, and garam masala. Cook for another 1–2 minutes, stirring occasionally. Add yogurt and coconut milk, stirring to combine.
 4. Turn heat to low; add peas and cooked vegetables. Let simmer, stirring occasionally, until sauce thickens slightly (about 10 minutes). Adjust sauce consistency with more yogurt or water, as desired. Taste and add salt as needed to enhance flavors.
