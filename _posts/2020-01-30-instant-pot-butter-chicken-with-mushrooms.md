@@ -18,8 +18,8 @@ My wife and I _love_ Indian food, but most of the recipes I've tried at home hav
 - 1/4 cup fresh grated ginger
 - 2 tablespoons curry powder
 - 4 teaspoons Garam Masala
-- 2 teaspoons salt
 - 1 1/2 teaspoons Kashmiri chili powder
+- 2 teaspoons salt
 - 29 ounces tomato sauce
 - 8 ounces sliced mushrooms
 - 2 cups heavy cream
