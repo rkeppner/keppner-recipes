@@ -17,7 +17,9 @@ Now that I’ve pretty much switched to a “slow-carb-style” diet, I’ve wan
 - 1/2 cup cooking liquid from garbanzo beans (or water, if not available)
 - 1/4 cup olive oil
 - 4 cloves garlic, minced
+- 1 teaspoon ground cumin
 - 1/2 teaspoon salt
+- pinch cayenne pepper
 
 ### Directions
 
