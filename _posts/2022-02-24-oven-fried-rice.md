@@ -7,7 +7,7 @@ categories:
 permalink: /recipes/oven-fried-rice.html
 ---
 
-I’ve kept fried rice on the menu rotation for a couple of years now, but making it from scratch just wasn’t worth the time and effort. Which is to say, I’ve been buying it from the freezer section. However, I recently came across [this method from Chef John](https://foodwishes.blogspot.com/2019/03/baked-fried-rice-once-cooked.html) that made me reevaluate making it at home. It turned out wonderfully for reasonable effort. Here’s my variation.
+I’ve kept fried rice on the menu rotation for a couple of years now, but making it from scratch just wasn’t worth the time and effort. Which is to say, I’ve been buying it from the freezer section. However, I recently came across [this method from Chef John](https://foodwishes.blogspot.com/2019/03/baked-fried-rice-once-cooked.html) that made me reevaluate making it at home. It turned out wonderfully for reasonable effort. Here’s my variation of it.
 
 ### Ingredients
 
