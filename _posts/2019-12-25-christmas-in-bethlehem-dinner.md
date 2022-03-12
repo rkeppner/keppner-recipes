@@ -11,11 +11,11 @@ For our church Christmas dinner this year, we were invited to dress up in biblic
 
 ### Dishes
 
-- [Sour Barley Pita]({{ site.baseurl }}{% post_url 2020-01-22-sour-barley-pita %})
-- [Baked Tilapia]({{ site.baseurl }}{% post_url 2020-01-22-baked-tilapia %})
-- [Chicken Shawarma]({{ site.baseurl }}{% post_url 2017-09-09-chicken-shawarma-israeli-salad %})
-- [Lentil Stew]({{ site.baseurl }}{% post_url 2020-01-22-instant-pot-lentil-stew %})
-- [Tabouli Salad]({{ site.baseurl }}{% post_url 2020-01-22-tabouli-salad %})
+- [Sour Barley Pita]({{ site.baseurl }}{% link_to 2020-01-22-sour-barley-pita %})
+- [Baked Tilapia]({{ site.baseurl }}{% link_to 2020-01-22-baked-tilapia %})
+- [Chicken Shawarma]({{ site.baseurl }}{% link_to 2017-09-09-chicken-shawarma-israeli-salad %})
+- [Lentil Stew]({{ site.baseurl }}{% link_to 2020-01-22-instant-pot-lentil-stew %})
+- [Tabouli Salad]({{ site.baseurl }}{% link_to 2020-01-22-tabouli-salad %})
 - Feta cheese
 - Cured olives
 - Dried figs
