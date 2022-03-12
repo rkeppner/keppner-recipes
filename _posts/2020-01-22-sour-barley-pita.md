@@ -7,7 +7,7 @@ categories:
 permalink: /recipes/sour-barley-pita.html
 ---
 
-When we did our [Christmas in Bethlehem dinner]({{ site.baseurl }}{% link_to 2019-12-25-christmas-in-bethlehem-dinner %}), I needed some kind of bread to go with it. Barley is probably more traditional than wheat, so I went with this recipe.
+When we did our [Christmas in Bethlehem dinner](/recipes/christmas-in-bethlehem-dinner), I needed some kind of bread to go with it. Barley is probably more traditional than wheat, so I went with this recipe.
 
 ### Ingredients
 

@@ -4,8 +4,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% assign title = page.title | default: site.title | escape %}
-  {% assign canonical = page.url | replace:'index.html','' | absolute_url %}
-  {% assign description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | escape %}
+  {% assign canonical = page.url | replace:'index.html','' %}
+  {% assign description = page.description | default: page.excerpt | default: site.description | strip_html | escape %}
   <title>{{ title }}</title>
   <meta name="description" content="{{ description }}">
   {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
@@ -16,9 +16,9 @@
   {% if site.feed and site.feed.path %}
     {% assign feed_path = site.feed.path %}
   {% endif %}
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ feed_path | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ feed_path }}">
 
-  {% include head_custom.html %}
+  {% include 'head_custom.html' %}
 
   {% if site.facebook_app_id %}
     <meta property="fb:admins" content="{{ site.facebook_app_id }}">
@@ -60,6 +60,6 @@
     <meta name="twitter:image:src" content="{{ site.twitter_image }}">
   {% endif %}
 
-  {% include fonts.html %}
-  {% include google_analytics.html %}
+  {% include 'fonts.html' %}
+  {% include 'google_analytics.html' %}
 </head>
