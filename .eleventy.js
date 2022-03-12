@@ -1,6 +1,7 @@
 module.exports = (eleventyConfig) => {
   // Copy the "assets" directory to the compiled "_site" folder.
   eleventyConfig.addPassthroughCopy('assets');
+  eleventyConfig.addPassthroughCopy('CNAME');
 
   eleventyConfig.addFilter('date_to_xmlschema', dateToXmlSchema);
 

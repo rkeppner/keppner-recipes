@@ -3,5 +3,11 @@
   "email": "russell.keppner@gmail.com",
   "description": "Because this is the easiest way to find my own recipes...",
   "baseurl": "",
-  "url": "https://recipes.keppner.net"
+  "url": "https://recipes.keppner.net",
+  "repo": "http://github.com/rkeppner/keppner-recipes",
+  "comments": false,
+  "author": {
+    "name": "Russell Keppner"
+  },
+  "og_locale": "en_US"
 }
