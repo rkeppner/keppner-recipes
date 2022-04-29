@@ -3,7 +3,7 @@ layout: post
 title: 'Shirataki Pad Thai'
 date: 2022-04-24
 image:
-categories:
+categories: Diet
 permalink: /recipes/shirataki-pad-thai.html
 ---
 
