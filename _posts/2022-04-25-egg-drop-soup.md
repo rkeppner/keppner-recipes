@@ -3,7 +3,7 @@ layout: post
 title: 'Egg Drop Soup'
 date: 2022-04-25
 image:
-categories:
+categories: Diet
 permalink: /recipes/egg-drop-soup.html
 ---
 

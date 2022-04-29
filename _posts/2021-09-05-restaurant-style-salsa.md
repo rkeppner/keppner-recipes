@@ -3,7 +3,7 @@ layout: post
 title: 'Restaurant-Style Salsa'
 date: 2021-09-05
 image:
-categories:
+categories: Diet
 permalink: /recipes/restaurant-style-salsa.html
 ---
 
