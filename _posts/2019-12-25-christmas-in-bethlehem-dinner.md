@@ -16,6 +16,8 @@ For our church Christmas dinner this year, we were invited to dress up in biblic
 - [Chicken Shawarma]({{ site.baseurl }}{% post_url 2017-09-09-chicken-shawarma-israeli-salad %})
 - [Lentil Stew]({{ site.baseurl }}{% post_url 2020-01-22-instant-pot-lentil-stew %})
 - [Tabouli Salad]({{ site.baseurl }}{% post_url 2020-01-22-tabouli-salad %})
+- [Hummus]({{ site.baseurl }}{% post_url 2007-06-02-basic-hummus %})
+- [Tzatziki]({{ site.baseurl }}{% post_url 2022-03-14-tzatziki %})
 - Feta cheese
 - Cured olives
 - Dried figs
