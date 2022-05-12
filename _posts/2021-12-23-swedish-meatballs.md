@@ -13,7 +13,7 @@ The whole family loves these with mashed potatoes, even though I'm too lazy to m
 
 - 28-32 ounce package frozen meatballs
 - 6 tablespoons butter
-- 6 tablespoons all-purpose flour
+- 1/2 cup all-purpose flour
 - 6 cups beef broth or stock
 - 1 cup heavy cream
 - 1 teaspoon sugar
