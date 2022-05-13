@@ -18,7 +18,7 @@ The whole family loves these with mashed potatoes, even though I'm too lazy to m
 - 1 cup heavy cream
 - 1 teaspoon sugar
 - 1/2 teaspoon Worcestershire sauce
-- 2 tablespoons fresh parsley, chopped
+- 2 tablespoons fresh parsley, chopped (optional)
 - salt and pepper to taste
 
 ### Directions
