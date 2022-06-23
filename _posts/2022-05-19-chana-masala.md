@@ -3,7 +3,7 @@ layout: post
 title: 'Chana Masala: Indian Chickpea Curry'
 date: 2022-05-19
 image:
-categories: Indian,Diet
+categories: Indian Diet
 permalink: /recipes/chana-masala.html
 ---
 
