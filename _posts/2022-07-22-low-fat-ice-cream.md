@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Low Fat Ice Cream'
-date: 2022-07-24
+date: 2022-07-22
 image:
 categories: Dessert,Diet
 permalink: /recipes/low-fat-ice-cream.html
