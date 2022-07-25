@@ -26,8 +26,8 @@ This Mexican take on spicy tomato sauce is perfect for serving up Huevos Rancher
 
 ### Directions
 
-1. Heat oil in saucepan over medium heat. Add onion, garlic, and salt to pan, and fry until onion is translucent and edges are brown.
+1. Heat oil in saucepan over medium heat. Add onion, garlic, and salt to pan. Fry, stirring frequently, until onion is translucent and edges are brown.
 2. Add spices and stir for a minute until fragrant.
 3. Deglaze pan with chicken broth.
 4. Add crushed tomatoes, and stir to mix.
-5. Bring sauce just to a boil and reduce to simmer. Simmer slowly for 30 minutes, adding more chicken broth or water to maintain desired consistency.
+5. Bring sauce just to a boil and reduce to simmer. Simmer slowly for 30 minutes, adding more chicken broth or water as needed to maintain desired consistency.
