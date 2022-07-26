@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ranchero Sauce'
-date: 2022-07-22
+date: 2022-07-24
 image:
 categories: Mexican
 permalink: /recipes/ranchero-sauce.html
