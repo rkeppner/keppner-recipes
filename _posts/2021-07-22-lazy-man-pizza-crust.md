@@ -16,6 +16,13 @@ I finally decided that I wanted decent pizza crust enough to make it myself, but
 - 1/2 teaspoon active dry yeast
 - 3 cups water
 
+#### Small Batch
+
+- scant 2 cups flour
+- 1 teaspoon sea salt
+- 1/4 teaspoon yeast
+- 3/4 cup water
+
 ### Directions
 
 1. Whisk dry ingredients together in medium-sized bowl.
