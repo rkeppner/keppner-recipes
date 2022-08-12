@@ -7,7 +7,7 @@ categories: Dessert,Diet
 permalink: /recipes/low-fat-ice-cream.html
 ---
 
-One of the things that keeps me sane while dieting is making sure I still get sweets. Most of my sweet tooth is satisfied by a couple diet soft drinks per day, but sometimes I need more of a dessert. This works perfectly.
+One of the things that keeps me sane while dieting is making sure I still get sweets. Most of my sweet tooth cravings are satisfied by a couple diet soft drinks per day, but sometimes I need more of a dessert. This works perfectly.
 
 ### Ingredients
 
