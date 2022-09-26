@@ -11,13 +11,15 @@ These are one of my favorites at family pot luck dinners, so I finally had to ge
 
 ### Ingredients
 
-- 2 cans (29 ounce) pork and beans, drained
+- 4 cans (15 ounce) pork and beans, drained
 - 1 small onion, finely diced
 - 1 bell pepper, finely diced
 - 4 cloves garlic, crushed
 - 1 cup ketchup
-- 1 cup brown sugar
+- 1/2 cup sugar
+- 2 tablespoons molasses
 - 1 tablespoon worchestershire sauce
+- 1/4 teaspoon liquid smoke (optional)
 - 1 pound bacon, cooked and crumbled
 
 ### Directions
