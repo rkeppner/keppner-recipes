@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Classic Brownies'
+title: 'Single Serving Carrot Cake'
 date: 2022-11-10
 image:
 categories:
