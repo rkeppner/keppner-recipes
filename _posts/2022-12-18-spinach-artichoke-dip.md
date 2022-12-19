@@ -7,7 +7,7 @@ categories:
 permalink: /recipes/spinach-artichoke-dip.html
 ---
 
-I love this stuff at Applebee's, but the version I made, based on sour cream, just wasn’t very close. My mother brought this version that she got from my sister-in-law to a family function, and I begged the recipe from her. It’s a real crowd pleaser.
+I love this stuff at Applebee's, but the version I used to make, based on sour cream, just wasn’t very close. My mother brought this version that she got from my sister-in-law to a family function, and I begged the recipe from her. It’s a real crowd pleaser.
 
 ### Ingredients
 
