@@ -15,6 +15,7 @@ This isn’t nearly as good as [my regular brownies]({{ site.baseurl }}{% post_u
 
 - 2 teaspoons butter
 - 2 tablespoons brown sugar
+- 1 tablespoon cocoa powder
 - 1/8 teaspoon vanilla extract
 - 2 tablespoons milk
 - 2 tablespoons all-purpose flour
@@ -25,7 +26,7 @@ This isn’t nearly as good as [my regular brownies]({{ site.baseurl }}{% post_u
 ### Directions
 
 1. Place butter in custard cup or small ramekin. Cover and microwave on low until melted.
-2. Add brown sugar, vanilla, milk, flour, and salt. Whisk with fork until combined.
+2. Add brown sugar, cocoa powder, vanilla, milk, flour, and salt. Whisk with fork until combined.
 3. Fold in chocolate chips and nuts.
 4. Microwave on high for 1 minute and 15 seconds. Allow to cool completely.
 5. If desired, top with whipped cream or ice cream.
