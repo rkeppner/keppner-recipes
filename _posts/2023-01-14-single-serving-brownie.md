@@ -14,19 +14,21 @@ This isn’t nearly as good as [my regular brownies]({{ site.baseurl }}{% post_u
 ### Ingredients
 
 - 2 teaspoons butter
-- 2 tablespoons brown sugar
+- 3 tablespoons brown sugar
 - 1 tablespoon cocoa powder
 - 1/8 teaspoon vanilla extract
-- 2 tablespoons milk
+- 2 tablespoons buttermilk
 - 2 tablespoons all-purpose flour
+- pinch baking powder
 - pinch salt
 - 1 tablespoon chocolate chips
 - 1 tablespoon chopped pecans or walnuts
 
 ### Directions
 
-1. Place butter in custard cup or small ramekin. Cover and microwave on low until melted.
-2. Add brown sugar, cocoa powder, vanilla, milk, flour, and salt. Whisk with fork until combined.
-3. Fold in chocolate chips and nuts.
-4. Microwave on high for 1 minute and 15 seconds. Allow to cool completely.
-5. If desired, top with whipped cream or ice cream.
+1. Preheat air fryer to 350ºF.
+2. Place butter in custard cup or small ramekin. Cover and microwave on low until melted.
+3. Add brown sugar, cocoa powder, vanilla, milk, flour, baking powder, and salt. Whisk with fork until combined.
+4. Fold in chocolate chips and nuts.
+5. Microwave on high for 30 seconds. Transfer to preheated air fryer for 10 minutes. Allow to cool completely.
+6. If desired, top with vanilla ice cream and/or caramel syrup.
