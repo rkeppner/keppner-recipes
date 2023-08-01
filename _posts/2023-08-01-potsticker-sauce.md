@@ -12,9 +12,9 @@ I don’t bother to make my own potstickers; it’s just too much effort. I buy 
 ### Ingredients
 
 - 1/4 cup soy sauce
-- 1/2 teaspoon rice vinegar
-- 1/2 teaspoon sesame oil
-- 1/2 tablespoon sugar
+- 1 teaspoon rice vinegar
+- 1 teaspoon sesame oil
+- 2 teaspoons sugar
 - 1 scallion, thinly sliced
 - pinch red pepper flakes
 - pinch sesame seeds, for garnish
