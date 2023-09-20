@@ -3,7 +3,7 @@ layout: post
 title: 'Microwave Brownies'
 date: 2023-02-15
 image:
-categories:
+categories: Dessert
 permalink: /recipes/microwave-brownies.html
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Single Serving Carrot Cake'
 date: 2022-11-10
 image:
-categories:
+categories: Dessert
 permalink: /recipes/single-serving-carrot-cake.html
 ---
 

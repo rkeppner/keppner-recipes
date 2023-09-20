@@ -3,7 +3,7 @@ layout: post
 title: 'Single Serving Brownie'
 date: 2023-01-14
 image:
-categories:
+categories: Dessert
 permalink: /recipes/single-serving-brownie.html
 ---
 

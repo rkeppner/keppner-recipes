@@ -3,7 +3,7 @@ layout: post
 title: 'Classic Brownies'
 date: 2022-09-27
 image:
-categories:
+categories: Dessert
 permalink: /recipes/classic-brownies.html
 ---
 
