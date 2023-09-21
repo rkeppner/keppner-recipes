@@ -24,7 +24,7 @@ I’ve kept fried rice on the menu rotation for a couple of years now, but makin
 - 3 cups chicken broth
 - 3 tablespoons soy sauce
 - 1 tablespoon sriracha
-- 1 teaspoon [Chinese five spice powder]({{ site.baseurl }}{% post_url 2022-02-23-chinese-five-spice-powder %})
+- 1 teaspoon [Chinese five spice powder]({% post_url 2022-02-23-chinese-five-spice-powder %})
 - 1 tablespoon sesame seeds (optional)
 
 ### Directions
