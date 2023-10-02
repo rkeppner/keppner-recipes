@@ -3,7 +3,7 @@ layout: post
 title: 'No-Bake Chocolate Eclair Cake'
 date: 2021-07-19
 image:
-categories:
+categories: Dessert
 permalink: /recipes/no-bake-chocolate-eclair-cake.html
 ---
 

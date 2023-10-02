@@ -3,7 +3,7 @@ layout: post
 title: 'Cream Cheese Crepe Filling'
 date: 2021-09-12
 image:
-categories:
+categories: Dessert
 permalink: /recipes/cream-cheese-crepe-filling.html
 ---
 

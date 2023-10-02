@@ -3,7 +3,7 @@ layout: post
 title: 'Elephant Ears'
 date: 2021-09-17
 image:
-categories: Carnival
+categories: Carnival, Dessert
 permalink: /recipes/elephant-ears.html
 ---
 
