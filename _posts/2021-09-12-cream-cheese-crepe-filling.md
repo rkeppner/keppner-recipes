@@ -3,11 +3,11 @@ layout: post
 title: 'Cream Cheese Crepe Filling'
 date: 2021-09-12
 image:
-categories:
+categories: Dessert
 permalink: /recipes/cream-cheese-crepe-filling.html
 ---
 
-Something like a liquid cheesecake, I love this filling in [crepes]({{ site.baseurl }}{% post_url 2021-07-26-basic-crepes %}) with fresh berries.
+Something like a liquid cheesecake, I love this filling in [crepes]({% post_url 2021-07-26-basic-crepes %}) with fresh berries.
 
 ### Ingredients
 

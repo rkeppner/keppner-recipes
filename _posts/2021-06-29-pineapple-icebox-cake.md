@@ -3,7 +3,7 @@ layout: post
 title: 'Pineapple Icebox Cake'
 date: 2021-06-29
 image:
-categories:
+categories: Dessert
 permalink: /recipes/pineapple-icebox-cake.html
 ---
 

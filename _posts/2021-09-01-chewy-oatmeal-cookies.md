@@ -3,7 +3,7 @@ layout: post
 title: 'Chewy Oatmeal Cookies'
 date: 2021-09-01
 image:
-categories:
+categories: Dessert
 permalink: /recipes/chewy-oatmeal-cookies.html
 ---
 

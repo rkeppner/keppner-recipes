@@ -3,7 +3,7 @@ layout: post
 title: 'Cheap Chocolate Blender Milkshakes'
 date: 2017-02-17
 image: https://res.cloudinary.com/keppnerhaus/image/upload/t_whiteglass-blog/v1504127823/keppner-recipes/blog/cheap-chocolate-frosty.jpg
-categories:
+categories: Dessert
 permalink: /recipes/cheap-chocolate-blender-shake.html
 ---
 

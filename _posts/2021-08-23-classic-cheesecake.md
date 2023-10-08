@@ -3,7 +3,7 @@ layout: post
 title: 'Classic Cheesecake'
 date: 2021-08-23
 image:
-categories:
+categories: Dessert
 permalink: /recipes/classic-cheesecake.html
 ---
 

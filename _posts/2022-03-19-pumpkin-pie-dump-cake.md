@@ -3,7 +3,7 @@ layout: post
 title: 'Pumpkin Pie Dump Cake'
 date: 2022-03-19
 image:
-categories:
+categories: Dessert
 permalink: /recipes/pumpkin-pie-dump-cake.html
 ---
 

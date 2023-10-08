@@ -3,7 +3,7 @@ layout: post
 title: 'Banana Bars with Cream Cheese Frosting'
 date: 2021-07-25
 image:
-categories:
+categories: Dessert
 permalink: /recipes/banana-bars-with-cream-cheese-frosting.html
 ---
 
