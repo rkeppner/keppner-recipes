@@ -14,12 +14,13 @@ I really like carrot cake, but I’m just not much of a baker. The time it takes
 - 2 teaspoons vegetable oil
 - 1 tablespoon brown sugar
 - 1/8 teaspoon vanilla extract
-- 1 1/2 tablespoons milk
+- 1 1/2 tablespoons buttermilk
 - 2 tablespoons all-purpose flour
 - 1/4 teaspoon pumpkin pie spice
 - 1/8 teaspoon baking powder
 - pinch salt
-- 1 tablespoon carrot, finely shredded
+- 1 tablespoon carrot, grated
+- 1 tablespoon crushed pineapple, drained (optional)
 - 1/2 tablespoon raisins (about 6)
 - 1/2 tablespoon chopped pecans or walnuts
 
@@ -34,6 +35,6 @@ I really like carrot cake, but I’m just not much of a baker. The time it takes
 
 1. Place butter in custard cup or small ramekin. Cover and microwave on low until melted.
 2. Add brown sugar, vanilla, milk, flour, baking powder, pumpkin pie spice, and salt. Whisk with fork until thoroughly combined.
-3. Fold in carrot, raisins, and nuts.
+3. Fold in carrot, pineapple (if using), raisins, and nuts.
 4. Microwave on high for 1 minute and 15 seconds. Allow to cool completely.
 5. For cream cheese frosting, beat butter and cream cheese until smooth. Add powdered sugar and vanilla and beat until fluffy.
