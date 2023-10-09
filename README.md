@@ -11,9 +11,13 @@
     echo 'export CPPFLAGS="-I/opt/homebrew/opt/ruby/include"' >> ~/.zshrc
     source ~/.zshrc
     ```
-1. Install AWS CLI.
+1. Install and configure AWS CLI.
     ```
     brew install aws aws-shell
+    aws configure set default.region us-west-1
+    aws configure set default.output json
+    aws configure set aws_access_key_id <access_key>
+    aws configure set aws_secret_access_key <secret_key>
     ```
 1. Install Bundler.
     ```
