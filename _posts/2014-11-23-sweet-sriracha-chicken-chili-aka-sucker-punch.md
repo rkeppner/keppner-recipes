@@ -16,35 +16,42 @@ My son Lliam refers to this recipe as _Sucker Punch_ because of the heat. It’s
 ### Ingredients
 
 - 3 pounds ground chicken (I like to grind mine course from boneless, skinless thighs)
-- 2 tablespoons plus 1/4-1/2 cup sriracha sauce
-- 2 large, fresh limes
+- 4 ears sweet corn, fresh or frozen
+- 1 each large yellow onion, large white onion, large red onion—peeled, trimmed, and sliced across the grain into 3 thick slices
+- 1 large, fresh red bell pepper
+- 1 large, fresh green bell pepper
+- 2 large, fresh Anaheim chili peppers
+- 1 large, fresh Pasilla chili pepper
+- 2 tablespoons lard
+- 6-8 ounces uncooked bacon, coarsely chopped
+- 2 10-ounce cans Ro*Tel Original tomatoes and green chilies
+- 2 15-ounce cans black beans, drained and rinsed
+- 4 cups chicken broth (homemade stock is awesome, from bouillon is fine)
+- 1 large, fresh limes
+- 1/4 cup dark brown sugar
+- 1/4-1/2 cup sriracha sauce
+- 2 tablespoons Thai fish sauce
+- 1/2 tablespoon salt
+- 1 bunch scallions, trimmed and thinly sliced
+- 1 bunch fresh cilantro, stems removed and chopped
+
+#### Marinade Ingredients
+
 - 2 tablespoons rice wine vinegar
-- 2 tablespoons plus 1/4 cup dark brown sugar
-- 1/2 teaspoon plus 1/2 tablespoon salt
+- 1 large, fresh limes
+- 2 tablespoons dark brown sugar
+- 2 tablespoons sriracha sauce
+- 1/2 teaspoon salt
 - 1 teaspoon freshly ground pepper
 - 1/4 teaspoon oregano
 - 2 whole, fresh serrano chili peppers, halved lengthwise and thinly sliced
 - 1 small yellow onion, finely chopped
 - 4 cloves fresh garlic, peeled and minced
 - 1/4 cup olive oil
-- 1 each large yellow onion, large white onion, large red onion—peeled, trimmed, and sliced across the grain into 3 thick slices
-- 1 large, fresh red bell pepper
-- 1 large, fresh green bell pepper
-- 2 large, fresh Anaheim chili peppers
-- 1 large, fresh Pasilla chili pepper
-- 4 ears sweet corn, fresh or frozen
-- 2 tablespoons lard
-- 6-8 ounces uncooked bacon, coarsely chopped
-- 2 10-ounce cans Ro*Tel Original tomatoes and green chilies
-- 2 15-ounce cans black beans, drained and rinsed
-- 4 cups chicken broth (homemade stock is awesome, from bouillon is fine)
-- 2 tablespoons Thai fish sauce
-- 1 bunch green onions, trimmed and thinly sliced
-- 1 bunch fresh cilantro, stems removed and chopped
 
 ### Directions
 
-1. Combine ground chicken, juice from 1 lime, vinegar, 2 tablespoons brown sugar, salt, pepper, oregano, serrano, chopped onion, garlic, and olive oil, and mix well. Cover and refrigerate overnight.
+1. Combine marinade ingredients, then mix well with ground chicken. Cover tightly and refrigerate overnight.
 2. Grill corn, onion slices, and remaining peppers on gas grill on high, until uniformly charred (peppers should be mostly black, corn and onions, not as much).
 3. Place grilled peppers in plastic bag, and allow to cool to room temperature. Slip off charred skins and discard. Also remove and discard stems, seeds, and membranes.
 4. Cut corn kernels from cobs. Chop onions and peppers to medium size (1/4 inch to 1/2 inch cube).
@@ -53,5 +60,5 @@ My son Lliam refers to this recipe as _Sucker Punch_ because of the heat. It’s
 7. Add chopped vegetables, Ro*Tel tomatoes and green chilies, black beans, and broth to cooked chicken in pot, and mix thoroughly. Bring to simmer.
 8. Add juice from remaining lime, additional 1/4 cup brown sugar, additional 1/4-1/2 cup sriracha sauce, fish sauce, and additional salt. Stir to combine. Test and adjust seasoning.
 9. Simmer on low for 20-30 minutes—long enough to meld the flavors, but not enough to completely soften the vegetables.
-10. Remove from heat and stir in fresh green onions and cilantro.
+10. Remove from heat and stir in crispy bacon, scallions, and cilantro.
 11. Serve immediately.
