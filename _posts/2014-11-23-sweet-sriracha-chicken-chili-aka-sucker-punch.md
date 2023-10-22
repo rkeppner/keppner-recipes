@@ -7,11 +7,11 @@ categories:
 permalink: /recipes/sweet-sriracha-chicken-chili-aka-sucker-punch.html
 ---
 
-I’m finally going to record this award-winning chili recipe, though mostly because I tend to forget how to make it between the infrequent (and informal) contests I participate in. Besides, I doubt anybody would ever compete with me with my own recipe, since the level of effort is so high. And if they did, I’d switch tactics. Again.
+I published my award-winning chili recipe mostly because I sometimes forgot how to make it between the infrequent competitions I participated in. That, and I doubted anybody would bother compete with me using my own recipe. It’s a reasonably high level of effort.
 
-You see, I always attempt to cheat at cooking competitions. I know I’m very unlikely to win by improving on a classic. It’s a classic because it’s been proven over time. So instead, I always try for something completely different—typically as far as I think I can go within the rules (official or perceived). As an example, this recipe is very Asian inspired, with the small amount of beans used mostly to pretend that it’s some kind of chili. That being said, my goal was to stimulate (or over-stimulate) all of the taste sensations: sweet, acid (sour), salty, bitter, heat (spicy), and especially, umami (savory). From most of the comments I’ve received, I think I’ve succeeded.
+This recipe is very Asian inspired, with the small amount of beans used mostly to pretend that it’s some kind of chili. My goal was to stimulate (or over-stimulate) all of the taste sensations: sweet, acid (sour), salty, bitter, heat (spicy), and especially, umami (savory). From the comments I’ve received, I think I succeeded.
 
-My son Lliam refers to this recipe as _Sucker Punch_ because of the heat. It’s actually a pretty hot chili, but because of the sweetness and acid, you don’t notice it for a while. But by the time you do, _wham!_, you’re in a full sweat, and it hurts to continue on to finish the bowl. Be warned.
+My son Lliam refers to this recipe as _Sucker Punch_ because of the heat. It’s actually a pretty hot chili, but because of the sweetness and acid, you don’t notice it for a while. But by the time you do, _wham!_, you’re in a full sweat, and it hurts to finish the bowl. Be warned.
 
 ### Ingredients
 
@@ -27,7 +27,7 @@ My son Lliam refers to this recipe as _Sucker Punch_ because of the heat. It’s
 - 2 10-ounce cans Ro*Tel Original tomatoes and green chilies
 - 2 15-ounce cans black beans, drained and rinsed
 - 4 cups chicken broth (homemade stock is awesome, from bouillon is fine)
-- 1 large, fresh limes
+- 1 large, fresh lime
 - 1/4 cup dark brown sugar
 - 1/4-1/2 cup sriracha sauce
 - 2 tablespoons Thai fish sauce
@@ -38,7 +38,7 @@ My son Lliam refers to this recipe as _Sucker Punch_ because of the heat. It’s
 #### Marinade Ingredients
 
 - 2 tablespoons rice wine vinegar
-- 1 large, fresh limes
+- 1 large, fresh lime, juiced
 - 2 tablespoons dark brown sugar
 - 2 tablespoons sriracha sauce
 - 1/2 teaspoon salt
