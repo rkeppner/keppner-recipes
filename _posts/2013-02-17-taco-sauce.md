@@ -3,7 +3,7 @@ layout: post
 title: 'Taco Sauce'
 date: 2013-02-17
 image: https://res.cloudinary.com/keppnerhaus/image/upload/t_whiteglass-blog/v1504127823/keppner-recipes/blog/taco-sauce.jpg
-categories:
+categories: Mexican
 permalink: /recipes/taco-sauce.html
 ---
 

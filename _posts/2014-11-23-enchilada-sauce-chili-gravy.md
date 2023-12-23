@@ -3,7 +3,7 @@ layout: post
 title: 'Enchilada Sauce (Chili Gravy)'
 date: 2014-11-23
 image:
-categories:
+categories: Mexican
 permalink: /recipes/enchilada-sauce-chili-gravy.html
 ---
 

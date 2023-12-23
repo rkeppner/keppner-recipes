@@ -3,7 +3,7 @@ layout: post
 title: 'Chile Rellenos Casserole'
 date: 2019-12-26
 image:
-categories:
+categories: Mexican
 permalink: /recipes/chile-rellenos-casserole.html
 ---
 

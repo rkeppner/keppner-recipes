@@ -3,7 +3,7 @@ layout: post
 title: 'Baked Spanish Rice'
 date: 2022-02-26
 image:
-categories:
+categories: Mexican
 permalink: /recipes/baked-spanish-rice.html
 ---
 
