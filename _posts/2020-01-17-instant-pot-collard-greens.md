@@ -3,7 +3,7 @@ layout: post
 title: 'Instant Pot Collard Greens'
 date: 2020-01-17
 image:
-categories:
+categories: Cajun
 permalink: /recipes/instant-pot-collard-greens.html
 ---
 
