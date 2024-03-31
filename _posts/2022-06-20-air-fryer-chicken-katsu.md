@@ -3,7 +3,7 @@ layout: post
 title: 'Air Fryer Chicken Katsu'
 date: 2022-06-20
 image:
-categories: Asian,Diet
+categories: Asian Diet
 permalink: /recipes/air-fryer-chicken-katsu.html
 ---
 

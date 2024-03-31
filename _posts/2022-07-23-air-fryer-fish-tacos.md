@@ -3,7 +3,7 @@ layout: post
 title: 'Air Fryer Fish Tacos'
 date: 2022-07-23
 image:
-categories: Mexican,Diet
+categories: Mexican Diet
 permalink: /recipes/air-fryer-fish-tacos.html
 ---
 

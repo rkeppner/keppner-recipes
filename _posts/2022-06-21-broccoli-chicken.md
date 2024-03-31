@@ -3,7 +3,7 @@ layout: post
 title: 'Chinese Chicken and Broccoli'
 date: 2022-06-21
 image:
-categories: Asian,Diet
+categories: Asian Diet
 permalink: /recipes/broccoli-chicken.html
 ---
 
