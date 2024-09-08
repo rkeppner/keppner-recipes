@@ -3,7 +3,7 @@ layout: post
 title: 'Air Fried Fair Foods'
 date: 2024-09-07
 image:
-categories: Carnival, Dessert
+categories: Carnival Dessert
 permalink: /recipes/air-fried-fair-foods.html
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Basic Crepes'
 date: 2021-07-26
 image:
-categories: Carnival, Dessert
+categories: Carnival Dessert
 permalink: /recipes/basic-crepes.html
 ---
 
