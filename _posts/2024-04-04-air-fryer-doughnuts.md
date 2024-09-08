@@ -24,12 +24,12 @@ I _almost never_ deep fat fry anything at home. It’s just not worth the effort
 
 1. Preheat air fryer to 350ºF.
 2. Mix the glaze ingredients together in a small bowl, and set aside.
-1. Open the can of biscuits and separate them, evening out the edges and thickness.
-1. Cut a hole in the center of each biscuit with a 1 inch cookie cutter.
-1. Place 4 of the doughnuts into the air fryer basket. If using, brush with butter.
-1. Air fry for 3 minutes, then flip them over. Optionally butter the other side.
-1. Air fry for an additional 3 minutes, or until golden brown.
-1. Allow them to cool just enough to handle, then dip in the glaze.
-1. Drain on a wire rack set over a baking sheet.
-1. Repeat with the remaining doughnuts and holes.
-1. Serve warm. As they cool, they will become more dense and chewy. However, they can be reheated in the microwave for 5-10 seconds to soften them up again.
+3. Open the can of biscuits and separate them, evening out the edges and thickness.
+4. Cut a hole in the center of each biscuit with a 1 inch cookie cutter.
+5. Place 4 of the doughnuts into the air fryer basket. If using, brush with butter.
+6. Air fry for 3 minutes, then flip them over. Optionally butter the other side.
+7. Air fry for an additional 3 minutes, or until golden brown.
+8. Allow them to cool just enough to handle, then dip in the glaze.
+9. Drain on a wire rack set over a baking sheet.
+10. Repeat with the remaining doughnuts and holes.
+11. Serve warm. As they cool, they will become more dense and chewy. However, they can be reheated in the microwave for 5-10 seconds to soften them up again.
