@@ -3,7 +3,7 @@ layout: post
 title: 'Potsticker Sauce'
 date: 2023-08-01
 image:
-categories: Asian
+categories: Asian Appetizers
 permalink: /recipes/potsticker-sauce.html
 ---
 

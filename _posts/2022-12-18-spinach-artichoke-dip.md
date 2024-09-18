@@ -3,7 +3,7 @@ layout: post
 title: 'Spinach Artichoke Dip'
 date: 2022-12-18
 image:
-categories:
+categories: Appetizers
 permalink: /recipes/spinach-artichoke-dip.html
 ---
 
