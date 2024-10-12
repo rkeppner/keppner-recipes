@@ -13,7 +13,7 @@
     ```
 1. Install and configure AWS CLI.
     ```
-    brew install aws aws-shell
+    brew install aws-shell
     aws configure set default.region us-west-1
     aws configure set default.output json
     aws configure set aws_access_key_id <access_key>
