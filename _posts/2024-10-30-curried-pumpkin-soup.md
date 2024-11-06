@@ -33,7 +33,7 @@ This is probably a bit stronger in the curry direction than most soups of this t
 ### Directions
 
 1. Heat oil in large heavy cooking pot.
-2. Add onion and (optional) red pepper, and sauté until onion is translucent.
+2. Add onion, salt, and (optional) red pepper. Sauté until onion is translucent.
 3. Add garlic, ginger, tomato paste (if using), curry powder, garahm masala, and cumin. Sauté until fragrant and fond forms on bottom of pot.
 4. Deglaze with 1 cup of chicken stock. Add remaining stock, pumpkin, coconut milk, sugar, and sriracha, and stir to mix.
 5. Bring soup to simmer, and let it simmer for 20-30 minutes.
