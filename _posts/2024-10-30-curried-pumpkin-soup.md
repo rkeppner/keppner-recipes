@@ -7,7 +7,7 @@ categories: Soup
 permalink: /recipes/curried-pumpkin-soup.html
 ---
 
-My wife has been a big fan of this type of soup for a long time, but this is only the first or second time I’ve attempted to make it for her myself. Fortunately, it turned out so well that I had to record the recipe for the future. To make it fancier, you can garnish it with sour cream, grated cheese, diced avocado, tortilla chips, and/or chopped fresh cilantro.
+This is probably a bit stronger in the curry direction than most soups of this type, but hey, I _like_ curries.
 
 ### Ingredients
 
