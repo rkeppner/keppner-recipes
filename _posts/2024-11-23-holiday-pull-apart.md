@@ -33,7 +33,7 @@ My wife used to occasionally make _monkey bread_ for breakfast on holidays, but 
 ### Directions
 
 1. In mixer bowl with dough hook, pour in warm milk and sprinkle in yeast; let sit 15–20 minutes.
-2. Add sugar, egg, 6 tablespoons of the melted butter, flour, and salt. Knead on low until a soft, smooth, elastic dough forms (about 10 minutes). Add walnuts and cranberries, and knead until evenly distributed.
+2. Add sugar, egg, 3/4 of the melted butter, flour, and salt. Knead on low until a soft, smooth, elastic dough forms (about 10 minutes). Add walnuts and cranberries, and knead until evenly distributed.
 3. Cover bowl and let dough rise in a warm place until doubled in size (about 1 1/2 hours).
 4. Preheat oven to lowest setting, and turn off.
 5. Butter bundt pan generously; set aside. Butter work surface, and put dough on it. Stretch and press dough into a 15-inch square. Brush generously with melted butter.
