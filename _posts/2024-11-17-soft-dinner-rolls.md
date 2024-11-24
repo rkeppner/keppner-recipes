@@ -26,4 +26,5 @@ My daughter-in-law makes these rolls for many of our family dinners. Since they 
 3. Knead on medium for 2 minutes. Transfer dough to a greased bowl, cover, and let rise in a warm place until doubled (about 2 hours).
 4. Preheat oven to lowest setting. Grease a full sheet pan. Turn off oven.
 5. Turn dough out onto a lightly floured surface, and divide into 24 equal pieces. Roll each piece into a ball and place on a greased full sheet pan. Cover and let rise in warm oven until doubled (30 to 60 minutes). Do not over-proof.
-6. Remove cover from rolls. Set oven to 375°F. Bake rolls until golden brown (about 25 minutes). Remove and brush with melted butter. Sprinkle with kosher salt, if desired. Let cool slightly before serving.
+6. Remove rolls from oven and cover from rolls. Preheat oven to 375°F.
+7. Bake rolls until golden brown and crispy (about 25 minutes). Remove and brush with melted butter. Sprinkle with kosher salt, if desired. Let cool slightly before serving.
