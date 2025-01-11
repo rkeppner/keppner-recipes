@@ -3,7 +3,7 @@ layout: post
 title: 'Creamy Wheat Farina Hot Cereal'
 date: 2020-01-29
 image:
-categories:
+categories: Breakfast
 permalink: /recipes/creamy-wheat-farina-hot-cereal.html
 ---
 
