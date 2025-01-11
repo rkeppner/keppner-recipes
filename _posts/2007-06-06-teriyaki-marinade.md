@@ -3,7 +3,7 @@ layout: post
 title: 'Teriyaki Marinade'
 date: 2007-06-06
 image:
-categories:
+categories: Asian
 permalink: /recipes/teriyaki-marinade.html
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Instant Pot Sweet and Sour Meatballs'
 date: 2020-02-19
 image:
-categories:
+categories: Asian
 permalink: /recipes/instant-pot-sweet-and-sour-meatballs.html
 ---
 

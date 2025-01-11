@@ -3,7 +3,7 @@ layout: post
 title: 'Chinese Five Spice Powder'
 date: 2022-02-23
 image:
-categories:
+categories: Asian
 permalink: /recipes/chinese-five-spice-powder.html
 ---
 

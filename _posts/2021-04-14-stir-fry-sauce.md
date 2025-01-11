@@ -3,7 +3,7 @@ layout: post
 title: 'Stir Fry Sauce'
 date: 2021-04-14
 image:
-categories:
+categories: Asian
 permalink: /recipes/stir-fry-sauce.html
 ---
 
