@@ -3,7 +3,7 @@ layout: post
 title: 'Chicken Enchilada Soup'
 date: 2017-11-04
 image:
-categories: Mexican
+categories: Mexican Soup
 permalink: /recipes/chicken-enchilada-soup.html
 ---
 

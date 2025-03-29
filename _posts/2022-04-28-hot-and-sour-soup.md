@@ -3,7 +3,7 @@ layout: post
 title: 'Hot and Sour Soup'
 date: 2022-04-28
 image:
-categories: Asian Diet
+categories: Asian Soup Diet
 permalink: /recipes/hot-and-sour-soup.html
 ---
 

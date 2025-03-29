@@ -3,7 +3,7 @@ layout: post
 title: 'Instant Pot Split Pea Soup'
 date: 2020-01-31
 image:
-categories:
+categories: Soup
 permalink: /recipes/instant-pot-split-pea-soup.html
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Irish Soda Bread'
 date: 2021-03-17
 image:
-categories:
+categories: Irish
 permalink: /recipes/irish-soda-bread.html
 ---
 
