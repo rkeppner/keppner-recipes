@@ -4,7 +4,7 @@ title: 'Toad in the Hole'
 date: 2025-03-29
 image:
 categories: British
-permalink: /recipes/lazy-po-boys.html
+permalink: /recipes/toad-in-the-hole.html
 ---
 
 Toad in the Hole is a classic British dish that consists of sausages baked in Yorkshire pudding batter. Any uncooked pork dinner sausage can be used, though the traditional choice would be English bangers. Unfortunately, finding them in the US has proven a challenge. In this case, I used the Irish Garlic sausages I found just before St. Patrick’s Day. The onion gravy is what really makes this dish, anyway.
