@@ -39,4 +39,4 @@ Once I figured out that clam chowder is really just potato soup (which I make al
 1. Add milk, parsley, and Old Bay Seasoning. Stir to mix.
 1. Cook until heated through, about 5 minutes.
 1. Adjust salt to taste.
-1. Serve warm, garnished with reserved bacon and scallions (if using).
+1. Serve warm, garnished with reserved bacon, scallions (if using), and oyster crackers (if desired).
