@@ -22,7 +22,7 @@ This is an easy dessert that I can knock out and serve in about an hour, making 
 
 ### Directions
 
-1. Preheat oven to 350ºF. Add butter to 9x9 pan and melt it in the preheating oven.
+1. Preheat oven to 350°F. Add butter to 9x9 pan and melt it in the preheating oven.
 2. In mixing bowl, sift flour, baking powder, and salt together. Add sugar, milk, and vanilla, and mix well.
 3. Pour batter into melted butter in pan. Distribute frozen fruit over surface of batter without stirring.
 4. Bake for 50–60 minutes until the cobbler is thoroughly cooked in the middle and is golden brown.
