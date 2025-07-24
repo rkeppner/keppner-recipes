@@ -3,7 +3,7 @@ layout: post
 title: 'Tabouli Salad'
 date: 2020-01-22
 image:
-categories:
+categories: Mediterranean
 permalink: /recipes/tabouli-salad.html
 ---
 

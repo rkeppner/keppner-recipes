@@ -3,7 +3,7 @@ layout: post
 title: 'Sour Barley Pita'
 date: 2020-01-22
 image:
-categories:
+categories: Mediterranean
 permalink: /recipes/sour-barley-pita.html
 ---
 

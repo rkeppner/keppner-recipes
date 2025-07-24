@@ -3,7 +3,7 @@ layout: post
 title: 'Chicken Shawarma and Yoghurt Sauce with Israeli Salad'
 date: 2017-09-09
 image: https://res.cloudinary.com/keppnerhaus/image/upload/v1505000012/keppner-recipes/blog/chicken-shawarma-israeli-salad.jpg
-categories:
+categories: Mediterranean
 permalink: /recipes/chicken-shawarma-israeli-salad.html
 facebook:
     type: article

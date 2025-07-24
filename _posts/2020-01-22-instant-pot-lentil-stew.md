@@ -3,7 +3,7 @@ layout: post
 title: 'Instant Pot Lentil Stew'
 date: 2020-01-22
 image:
-categories:
+categories: Mediterranean
 permalink: /recipes/instant-pot-lentil-stew.html
 ---
 
