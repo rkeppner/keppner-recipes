@@ -41,3 +41,5 @@ As Marti Gras came around again this year, I wanted something lighter than [gumb
 1. Dredge shrimp in flour, then dip in egg, and finally coat with panko.
 1. Spray shrimp with oil, and air fry at 400°F for about 8 minutes, flipping halfway through.
 1. Spread sauce on both sides of roll, and layer lettuce, tomato, scallions, and shrimp. Serve immediately.
+
+Makes 2 small sandwiches.

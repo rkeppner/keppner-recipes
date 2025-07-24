@@ -45,3 +45,5 @@ When I lived in the Phoenix East Valley, I used to order P.F. Chang’s Chicken 
 1. Reduce heat to medium low. Add water chestnuts and sauce, and stir to combine completely. Cook until most of sauce is absorbed, about 3–4 minutes.
 1. If using, add cucumber and mix to combine.
 1. Serve in lettuce leaves, garnished with scallions and sesame seeds.
+
+Serves 6.
