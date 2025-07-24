@@ -11,15 +11,15 @@ I love the fruit pizza concept in all of its variations, and this version is the
 
 ### Ingredients
 
-- 2/3 cup margarine, softened
-- 3/4 cup granulated sugar
-- 1 teaspoon vanilla extract
-- 1 large egg, room temperature
-- 1 tablespoon whole milk, room temperature
-- 2 cups all-purpose flour
-- 1/2 tablespoon baking powder
+- 1/3 cup margarine, softened
+- 1/3 cup granulated sugar
+- 1/2 teaspoon vanilla extract
+- 1 egg yolk, room temperature
+- 1/2 tablespoon whole milk, room temperature
+- 1 cup all-purpose flour
+- 1 teaspoon baking powder
 - pinch salt
-- 1 cup fresh raspberries
+- 1–2 cups fresh raspberries (or other fruit)
 
 #### Cream Cheese Frosting
 
