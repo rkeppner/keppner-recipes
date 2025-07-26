@@ -12,7 +12,7 @@ This is a copycat version of the Olive Garden restaurant soup. It's another grea
 ### Ingredients
 
 - 2 tablespoons extra virgin olive oil
-- 2 pounds mild Italian sausage, without casing
+- 2 pounds mild Italian sausage, without casing (or use [my substitute]({% post_url 2025-07-26-convert-breakfast-sausage-to-italian %}))
 - 2 medium onions, diced
 - 6 cloves garlic, minced
 - 1 teaspoon salt
