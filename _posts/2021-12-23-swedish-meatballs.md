@@ -14,17 +14,22 @@ The whole family loves these with mashed potatoes, even though I'm too lazy to m
 - 28-32 ounce package frozen meatballs
 - 1/2 cup butter
 - 1 cup all-purpose flour
-- 5 cups beef broth or stock
-- 1 cup whole milk
+- 3 cups beef broth or stock
+- 2 cups chicken or vegetable broth or stock
+- 2 tablespoons soy sauce
+- 1 tablespoon Dijon mustard
+- 1 teaspoon Worcestershire sauce
 - 1 teaspoon sugar
-- 1/2 teaspoon Worcestershire sauce
+- 1 cup whole milk
 - 2 tablespoons fresh parsley, chopped (optional)
 - salt and pepper to taste
 
 ### Directions
 
 1. Melt 2 tablespoons butter in large skillet or pot over medium heat. Add meatballs and lightly brown on all sides. Transfer meatballs to bowl to rest.
-2. Add remaining butter to skillet or pot. When butter is melted, whisk in flour and cook for 4-5 minutes until golden brown. Slowly whisk in broth or stock until well combined.
-3. Increase heat to medium-high, and whisk in milk. Bring to a simmer, then whisk in sugar and Worcestershire sauce. Simmer for 6-7 minutes until thickened. Season to taste with salt and pepper.
-4. Lower heat to medium-low. Add meatballs to gravy and heat until warm. Garnish with parsley, if using.
-5. Serve with mashed potatoes and lingonberry jam or whole berry cranberry sauce.
+1. Add remaining butter to skillet or pot. When butter is melted, whisk in flour. If needed, add a splash of oil. Cook for 4-5 minutes until golden brown. Slowly whisk in broth/stock until well combined.
+1. Whisk in soy sauce, Dijon mustard, Worcestershire sauce, and sugar.
+1. Increase heat to medium-high, and whisk in milk. Bring to a simmer and cook for 5-10 minutes until gravy thickens, stirring frequently.
+1. Season to taste with salt and pepper.
+1. Lower heat to medium-low. Add meatballs to gravy and heat until warm. Garnish with parsley, if using.
+1. Serve with mashed potatoes and lingonberry jam or whole berry cranberry sauce.
