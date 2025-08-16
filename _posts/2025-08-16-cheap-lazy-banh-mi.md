@@ -3,7 +3,7 @@ layout: post
 title: 'Cheap, Lazy Banh Mi Sandwiches'
 date: 2025-08-16
 image:
-categories: Vietnamese Sandwich
+categories: Asian Sandwich
 permalink: /recipes/cheap-lazy-banh-mi.html
 ---
 
