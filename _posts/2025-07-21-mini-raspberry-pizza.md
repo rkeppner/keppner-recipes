@@ -3,7 +3,7 @@ layout: post
 title: 'Mini Raspberry Pizza'
 date: 2025-07-21
 image:
-categories: Dessert
+categories: Dessert Pizza
 permalink: /recipes/mini-raspberry-pizza.html
 ---
 

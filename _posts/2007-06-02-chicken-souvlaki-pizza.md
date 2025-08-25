@@ -3,7 +3,7 @@ layout: post
 title: 'Chicken Souvlaki Pizza'
 date: 2007-06-02
 image: https://res.cloudinary.com/keppnerhaus/image/upload/t_whiteglass-blog/v1504127823/keppner-recipes/blog/chicken-souvlaki-pizza.jpg
-categories: Mediterranean
+categories: Mediterranean Pizza
 permalink: /recipes/chicken-souvlaki-pizza.html
 ---
 
