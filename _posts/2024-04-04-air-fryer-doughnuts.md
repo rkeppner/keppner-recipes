@@ -3,7 +3,7 @@ layout: post
 title: 'Simple Air Fryer Doughnuts'
 date: 2024-04-04
 image:
-categories: Dessert
+categories: Carnival Dessert
 permalink: /recipes/air-fryer-doughnuts.html
 ---
 
