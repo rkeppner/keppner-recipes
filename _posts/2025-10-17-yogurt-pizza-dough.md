@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yogurt Pizza Dough'
-date: 2023-12-25
+date: 2025-10-17
 image:
 categories: Pizza
 permalink: /recipes/yogurt-pizza-dough.html
