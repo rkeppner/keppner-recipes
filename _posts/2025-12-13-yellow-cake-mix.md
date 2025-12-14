@@ -11,7 +11,7 @@ I got tired of having to buy a boxed yellow cake mix to make my [Pumpkin Pie Dum
 
 ### Ingredients
 
-- 1 1/2 cups minus 3 tablespoons all-purpose flour (156 grams)
+- 1 1/2 cups minus 3 tablespoons all-purpose flour (178 grams)
 - 3/4 cup granulated sugar
 - 3 tablespoons corn starch
 - 1 teaspoon baking powder
