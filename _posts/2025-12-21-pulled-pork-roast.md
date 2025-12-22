@@ -7,7 +7,7 @@ categories:
 permalink: /recipes/pulled-pork-roast.html
 ---
 
-This is another recipe that I make every few months, but I wanted to record it here for future reference. I’ve used a number of methods over time, but this is the one I like best.
+This is another recipe that I make every few months, but I wanted to record it here for future reference. I’ve used a number of methods over time, but this is my current favorite.
 
 ### Ingredients
 
