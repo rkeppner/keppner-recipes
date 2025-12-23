@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'French Toast Casserole'
-date: 2025-01-12
+date: 2025-12-22
 image:
 categories: Breakfast
 permalink: /recipes/french-toast-casserole.html
