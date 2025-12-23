@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'French Toast Casserole'
+title: 'Simple French Toast Casserole'
 date: 2025-12-22
 image:
 categories: Breakfast
-permalink: /recipes/french-toast-casserole.html
+permalink: /recipes/simple-french-toast-casserole.html
 ---
 
 I have another, fancier version of [French Toast Casserole]({% post_url 2025-01-12-french-toast-casserole %}) that I make occasionally, but this is a simpler, cheaper version that we also like.
