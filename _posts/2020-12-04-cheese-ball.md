@@ -3,7 +3,7 @@ layout: post
 title: 'Cheese Ball'
 date: 2020-12-04
 image:
-categories: Appetizers
+categories: Appetizer
 permalink: /recipes/cheese-ball.html
 ---
 

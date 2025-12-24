@@ -3,7 +3,7 @@ layout: post
 title: 'Air Fryer Chicken Wings'
 date: 2024-09-18
 image:
-categories: Appetizers
+categories: Appetizer
 permalink: /recipes/air-fryer-chicken-wings.html
 ---
 

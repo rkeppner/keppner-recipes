@@ -3,7 +3,7 @@ layout: post
 title: 'Baba Ghanoush'
 date: 2007-06-03
 image:
-categories: Mediterranean Appetizers
+categories: Mediterranean Appetizer
 permalink: /recipes/baba-ghanoush.html
 ---
 

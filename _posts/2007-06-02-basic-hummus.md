@@ -3,7 +3,7 @@ layout: post
 title: 'Basic Hummus'
 date: 2007-06-02
 image:
-categories: Mediterranean Appetizers
+categories: Mediterranean Appetizer
 permalink: /recipes/basic-hummus.html
 ---
 
