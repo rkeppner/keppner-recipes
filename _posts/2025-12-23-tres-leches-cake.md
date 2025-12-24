@@ -3,7 +3,7 @@ layout: post
 title: 'Tres Leches Cake'
 date: 2025-12-23
 image:
-categories: Dessert
+categories: Mexican Dessert
 permalink: /recipes/tres-leches-cake.html
 ---
 

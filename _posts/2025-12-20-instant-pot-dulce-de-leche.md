@@ -3,7 +3,7 @@ layout: post
 title: 'Instant Pot Dulce de Leche'
 date: 2025-12-20
 image:
-categories: Dessert
+categories: Mexican Dessert
 permalink: /recipes/instant-pot-dulce-de-leche.html
 ---
 
