@@ -19,8 +19,17 @@ One more breakfast casserole to add to the holiday collection. This one is a spi
 - 1 teaspoon onion powder
 - 1 teaspoon salt
 - sprinkle of paprika
-- 1 package hollandaise sauce mix
 - pinch of cayenne pepper
+
+#### Hollandaise Sauce
+
+- 2 egg yolks
+- 2 teaspoons water
+- 1 tablespoon lemon juice
+- 1/4 teaspoon salt
+- 1/8 teaspoon black pepper
+- dash cayenne pepper (optional)
+- 1/2 cup butter
 
 ### Directions
 
@@ -30,4 +39,5 @@ One more breakfast casserole to add to the holiday collection. This one is a spi
 1. Preheat oven to 375°F.
 1. Bake casserole, covered, for 30 minutes. Meanwhile, prepare hollandaise sauce according to package directions, adding an additional tablespoon of butter. Finish sauce with a pinch of cayenne pepper.
 1. Remove foil from casserole, and bake an additional 15 minutes, until top is lightly browned and egg mixture is set. Let stand 5 minutes.
+1. Prepare hollandaise by separating egg yolks into a tall mug, just big enough for an immersion blender. Add water, lemon juice, salt, pepper, and cayenne pepper, and mix with blender. Melt butter in microwave until hot and bubbling. With blender running, slowly pour hot butter into mug with egg yolk mixture; continue blending until thickened.
 1. Serve with hollandaise sauce and reserved scallions.
