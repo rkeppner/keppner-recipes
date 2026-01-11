@@ -3,7 +3,7 @@ layout: post
 title: 'Grandma’s Baked Beans'
 date: 2022-09-25
 image:
-categories:
+categories: 'Sides'
 permalink: /recipes/grandmas-baked-beans.html
 ---
 
