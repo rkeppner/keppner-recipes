@@ -51,3 +51,21 @@ I’ve wanted to make these for a while, and the holidays was finally the excuse
 1. Cook on high pressure for 1 hour 45 minutes, then allow natural release.
 1. Break apart beef in cooker. Heat skillet over medium heat. Dip tortilla in cooking liquid, then place in skillet. Add cheese and beef, and fold tortilla in half. Cook until cheese is melted and tortilla is crisp. Flip and cook other side. Cool on rack lined sheet pan, until just warm.
 1. Add chopped onion and cilantro. Serve with cooking liquid for dipping.
+
+### Variations
+
+Instead of using beef, pork and chicken also work well.
+
+#### For Pork
+
+1. Use 3 lbs pork shoulder, cut into large chunks.
+1. Adjust cooking time to 1 hour 30 minutes.
+1. Remove bone if present before shredding.
+
+#### For Chicken
+
+1. Use bone-in, skin-on chicken thighs.
+1. Brown skin side first, until fat is rendered out and skin is crisp, then flip and brown other side.
+1. Remove skin before returning chicken to pot.
+1. Adjust cooking time to 45 minutes.
+1. Remove bones before shredding.
