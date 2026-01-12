@@ -7,15 +7,30 @@ categories: Mexican
 permalink: /recipes/quesabirria-tacos.html
 ---
 
-I’ve wanted to make these for a while, and the holidays was finally the excuse to drop the money on beef chuck roast and the Birria Bomb spice mix. I’m not likely to make these often, but they were delicious and worth the effort.
+I’ve wanted to make these for a while, and the holidays was finally the excuse to drop the money on beef chuck roast. I’m not likely to make these often, but they were delicious and worth the effort.
 
 ### Ingredients
 
-- 4 lbs beef chuck roast, cut into large chunks
-- 1 Birria Bomb
+- 3 lbs beef chuck roast, cut into large chunks
+- neutral oil
+- kosher salt and freshly ground black pepper
 - 1 medium onion, chopped
-- 1/2 bunch fresh cilantro, chopped
-- 2 cups water
+- 3 tablespoons apple cider vinegar
+- 6 garlic cloves, minced
+
+#### Cooking Sauce
+
+- 4 dried guajillo chiles, stemmed and seeded
+- 2 dried pasilla chiles, stemmed and seeded
+- 2 cups boiling beef or chicken broth
+- 1 tablespoon dried Mexican oregano
+- 1 teaspoon ground cumin
+- 2 teaspoons ground coriander
+- 2 tablespoons chopped chipotle peppers in adobo sauce
+- 15 ounce can fire roasted tomatoes
+- dash ground cinnamon
+- large pinch salt
+- pinch freshly ground black pepper
 
 #### Tacos
 
@@ -26,7 +41,13 @@ I’ve wanted to make these for a while, and the holidays was finally the excuse
 
 ### Directions
 
-1. In Instant Pot, combine beef, Birria Bomb, onion, cilantro, and water.
+1. In blender jar, combine chiles and boiling broth. Let soak 15 minutes.
+1. Meanwhile, Heat instant pot on sauté setting. Rub beef with oil and season generously with salt and pepper. Brown beef in batches, until crusted on all sides. Remove to plate and set aside.
+1. To blender jar, add oregano, cumin, coriander, chipotle peppers, tomatoes, cinnamon, salt, and pepper. Blend until smooth.
+1. Add a little more oil to pot. Add onion, and cook until softened.
+1. Add vinegar, scraping up bits on bottom. Cook until liquid is about half evaporated.
+1. Add garlic, and cook until fragrant. Return beef and any juices to pot. Turn off sauté setting.
+1. Pour sauce over beef in pot. If needed, add a little water to just cover beef.
 1. Cook on high pressure for 1 hour 45 minutes, then allow natural release.
 1. Break apart beef in cooker. Heat skillet over medium heat. Dip tortilla in cooking liquid, then place in skillet. Add cheese and beef, and fold tortilla in half. Cook until cheese is melted and tortilla is crisp. Flip and cook other side. Cool on rack lined sheet pan, until just warm.
 1. Add chopped onion and cilantro. Serve with cooking liquid for dipping.
