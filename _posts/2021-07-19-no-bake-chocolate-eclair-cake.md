@@ -11,18 +11,18 @@ This is another of my go-tos in the summer when it gets too hot to turn the oven
 
 ### Ingredients
 
-- 1 16-ounce package whipped topping
-- 2 3.4-ounce boxes instant vanilla pudding
 - 3 cups milk
+- 2 3.4-ounce boxes instant vanilla pudding
+- 1 16-ounce package whipped topping
 - 1 box graham crackers (3 sleeves)
 
 #### Topping Ingredients
 
 - 1/3 cup cocoa powder
 - 1 cup sugar
-1/4 cup milk
-1/2 cup butter
-1 teaspoon vanilla
+- 1/4 cup milk
+- 1/2 cup butter
+- 1 teaspoon vanilla
 
 ### Directions
 
