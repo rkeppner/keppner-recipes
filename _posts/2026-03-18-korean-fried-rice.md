@@ -12,12 +12,12 @@ This is an Americanized take on kimchi fried rice. It pairs well with potsticker
 ### Ingredients
 
 - 4 ounces thickly sliced bacon, chopped
+- 2 tablespoons butter, softened
+- 1 tablespoon gochujang (Korean chili paste)
 - 1 medium onion, chopped
 - 1 cup chopped kimchi, with juice
 - 1 cup shredded cabbage
 - 2 cups cooked white rice, cold
-- 2 tablespoons butter, softened
-- 1 tablespoon gochujang (Korean chili paste)
 - 1 large egg, beaten
 - 1 teaspoon toasted sesame oil
 - soy sauce, to taste
