@@ -1,3 +1,7 @@
+## DEPRECATED!
+
+This codebase was migrated to Eleventy at [rkeppner-recipes-js](https://github.com/rkeppner/keppner-recipes-js). This codebase is no longer updated nor maintained.
+
 # Build for Hosting
 
 ## Mac OS X Initial Setup
